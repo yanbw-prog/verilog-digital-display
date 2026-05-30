@@ -19,3 +19,5 @@
 - `top.v` — 顶层模块
 - `display_ctrl.v` — 显示控制模块
 - `seg_decoder.v` — 段码译码模块
+## 仿真波形
+![Simulation Waveform](simulation.png)
